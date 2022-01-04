@@ -1,0 +1,21 @@
+{
+    "$schema": "https://schemas.premid.app/metadata/1.0",
+    "author": {
+      "name": "shmuk",
+      "id": "315954018520268810"
+    },
+    "url": "graniteschools.instructure.com",
+    "description": {
+      "en": "A learning management platform developed by Instructure and used by many students and schools"
+    },
+    "service": "Canvas",
+    "logo": "https://cdn.discordapp.com/attachments/487054139860320267/781430331562917929/Canvas-Logo.png",
+    "thumbnail": "https://cdn.discordapp.com/attachments/487054139860320267/781430331562917929/Canvas-Logo.png",
+    "color": "#FF0000",
+    "tags": [
+      "education",
+      "canvas"
+    ],
+    "category": "other"
+  }
+  
