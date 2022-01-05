@@ -1,5 +1,5 @@
 const presence = new Presence({
-    clientId: "781431986677612554" //The client ID of the Application created at https://discordapp.com/developers/applications
+    clientId: "928185819968196639" //The client ID of the Application created at https://discordapp.com/developers/applications
 });
 
 const browsingStamp = Math.floor(Date.now() / 1000);
